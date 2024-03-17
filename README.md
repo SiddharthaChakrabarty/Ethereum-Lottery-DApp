@@ -55,12 +55,15 @@ npm start`
 
 ## Entering Player into the Lottery
 
-   <img width="771" alt="image" src="https://github.com/SiddharthaChakrabarty/Ethereum-Lottery-DApp/assets/119057806/2cb140ae-57bc-48c7-a9e6-8e8f376a2697">
+   <img width="641" alt="image" src="https://github.com/SiddharthaChakrabarty/Ethereum-Lottery-DApp/assets/119057806/b1a941e8-f99e-4415-bea3-a6ae55c30bd9">
 
+
+   
 
 ## Picking winner from the Lottery
 
-   <img width="781" alt="image" src="https://github.com/SiddharthaChakrabarty/Ethereum-Lottery-DApp/assets/119057806/94c56522-5500-4289-b178-227be7a99ec2">
+   <img width="631" alt="image" src="https://github.com/SiddharthaChakrabarty/Ethereum-Lottery-DApp/assets/119057806/b6f484d9-d42b-436e-b972-36d4fcd9d59d">
+
 
 
 
